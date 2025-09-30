@@ -1,0 +1,115 @@
+Database Course – Final Project Assignment
+Objective
+The objective of this project is to consolidate and apply the theoretical and practical knowledge
+acquired throughout the course. Students are expected to design, implement, and demonstrate a
+complete database solution using Oracle SQL*Plus.
+
+Project Scope
+Each group of two students is required to:
+
+   1. Select a real-world business or organizational domain for their database system (e.g.,
+      hospital management, university registration, e-commerce platform, library system, etc.).
+   2. Design an Entity-Relationship (ER) diagram that captures all relevant entities, attributes,
+      and relationships.
+   3. Map the ER diagram into a relational schema (relational database model).
+   4. Implement the relational database in Oracle SQL*Plus.
+   5. Populate the database with sufficient sample data (minimum 5 records per table).
+   6. Develop and test SQL retrieval queries to generate key business reports.
+   7. Present their project in a professional 10-minute presentation at the end of the semester.
+
+Detailed Requirements
+1. Database System Selection
+
+      Choose a project topic/domain that requires the use of a database system.
+      Get the topic approved by the instructor no later than 18/5/2025
+
+2. ER Diagram Design
+
+      Create a complete ER diagram showing:
+          o All entities and their attributes.
+          o Primary keys and foreign keys.
+          o All types of relationships (one-to-one, one-to-many, many-to-many).
+          o Cardinality and participation constraints.
+
+3. Mapping to Relational Model
+
+      Transform the ER model into a normalized relational database schema.
+      Define tables, primary keys, and foreign keys accurately.
+      Resolve many-to-many relationships properly.
+4. Database Creation
+
+      Create tables in Oracle SQL*Plus using DDL (Data Definition Language).
+      Insert sample data into all tables using DML (Data Manipulation Language).
+      Ensure data integrity and relational consistency.
+
+5. Data Retrieval and Reporting
+
+      Create and execute at least five meaningful SQL queries.
+      Each query should demonstrate key retrieval concepts such as:
+          o Joins between tables.
+          o Aggregate functions (SUM, AVG, COUNT, etc.).
+          o Grouping and ordering of results.
+          o Subqueries where appropriate.
+      The queries should generate reports relevant to the selected domain (e.g., monthly sales
+       report, overdue books list, patient appointments schedule, etc.).
+
+6. Final Presentation
+
+      Each group will have 10 minutes to present:
+          o Project overview and selected domain.
+          o ER diagram explanation.
+          o Relational schema description.
+          o Live demonstration of the created database, sample data, and reports.
+          o Challenges faced and lessons learned.
+      Presentations must be professional and well-structured.
+
+Submission Deliverables
+      ER Diagram (soft copy and printed).
+      Relational schema mapping documentation.
+      Oracle SQL*Plus script files:
+          o DDL scripts for table creation.
+          o DML scripts for data insertion.
+          o SQL scripts for report queries.
+      Final Report (Word/PDF file) summarizing:
+          o Project description and objectives.
+          o Design decisions and justification.
+          o Screenshots of database and query results.
+      Presentation slides (PowerPoint format).
+
+Important Notes
+      Deadline for final submission: 14/6/2024.
+      Presentation dates:.
+     Plagiarism will not be tolerated. Each group must submit original work.
+     Late submissions will be penalized as per the course policy.
+
+Evaluation Criteria
+          Criteria        Weight
+ER Diagram and Design     20%
+Relational Schema Mapping 15%
+Database Implementation 20%
+Data Population           10%
+SQL Queries and Reports 20%
+Presentation and Delivery 15%
+Sample Project Topics
+  1. University Course Registration System
+      Manage students, instructors, courses, departments, course enrollments, and grades.
+  2. Hospital Patient Management System
+      Manage patients, doctors, nurses, appointments, treatments, hospital rooms, and billing.
+  3. Online Bookstore Management System
+      Manage books, authors, publishers, customers, orders, shopping carts, and payments.
+  4. Car Rental System
+      Manage customers, vehicles, rental agreements, maintenance schedules, and branches.
+  5. Hotel Reservation System
+      Manage guests, reservations, room types, room availability, services, and billing.
+  6. Library Management System
+      Manage books, members, loans, returns, fines, book reservations, and librarians.
+  7. Employee Performance Evaluation System
+      Manage employees, departments, performance reviews, goals, promotions, and training
+      records.
+  8. E-Learning Platform Management
+      Manage students, instructors, courses, enrollments, online assessments, and certifications.
+  9. Inventory and Warehouse Management System
+      Manage products, suppliers, warehouses, stock levels, shipments, and orders.
+  10. Event Management System
+      Manage events, participants, venues, ticket bookings, event schedules, and sponsors.
+
